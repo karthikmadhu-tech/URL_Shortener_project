@@ -1,1 +1,2 @@
+# URL SHORTENER #
 "URL Shortener" is a project that aims to make the process of shortening large web URLs easier. This project uses Python and the pyshorteners package to give users with a simple and efficient tool for producing succinct, shareable URL links. "URL Shortener" provides a straightforward solution for anybody wishing to streamline their URL management, with a user-friendly interface created using Tkinter.
